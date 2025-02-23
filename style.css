@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: sans-serif;
+  overflow-y: hidden;
 }
 
 .container {
@@ -17,7 +18,7 @@
 .counter_app {
   /* background-color: #1E1E1E ; */
   border-radius: 10px;
-  width: 350px;
+  width: 380px;
 }
 
 .head {
@@ -80,7 +81,7 @@ span{
 }
 
 .links {
-  margin-top: 40px;
+  margin-top: 60px;
   display: flex;
   justify-content: space-between;
 }
