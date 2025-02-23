@@ -11,8 +11,9 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   background-color:  #F4F8FB ;
+  padding-top: 30px
 }
 
 .counter_app {
@@ -31,6 +32,7 @@
 .head h1 {
   font-size: 50px;
   color: #3A78B7;
+  margin-top: 0;
 }
 .head p {
   font-size: 16px;
