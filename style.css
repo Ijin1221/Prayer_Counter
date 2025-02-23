@@ -17,7 +17,7 @@
 .counter_app {
   /* background-color: #1E1E1E ; */
   border-radius: 10px;
-  padding: 20px;
+  width: 350px;
 }
 
 .head {
@@ -80,7 +80,7 @@ span{
 }
 
 .links {
-  margin-top: 20px;
+  margin-top: 40px;
   display: flex;
   justify-content: space-between;
 }
